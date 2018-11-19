@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zbom.SSO</string>
+				<string>com.zbom.design</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>安装App</string>
 				<key>title</key>
-				<string>志邦U客</string>
+				<string>设计谷</string>
 			</dict>
 		</dict>
 	</array>
